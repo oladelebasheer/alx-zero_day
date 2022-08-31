@@ -1,2 +1,1 @@
-My first readme and
-this file is up to date
+My first readme and is up to date
